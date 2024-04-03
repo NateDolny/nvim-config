@@ -17,3 +17,4 @@ set spelllang=en_us
 
 set backup
 set writebackup
+set backupdir=~/.nvim_backups
