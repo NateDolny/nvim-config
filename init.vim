@@ -1,5 +1,5 @@
 syntax enable 
-colorscheme paramount
+colorscheme 
 set colorcolumn=80
 set incsearch
 highlight CursorLineNr ctermfg=red
