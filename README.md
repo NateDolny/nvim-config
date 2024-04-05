@@ -5,7 +5,7 @@ Author: Nate Dolny | Date: April 5, 2024
 **Description:**
 This is my personal configuration for Neovim.
 
-## Installation 
+### Installation 
 
 To install this configuration file 
 
